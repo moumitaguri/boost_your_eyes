@@ -1,0 +1,39 @@
+.container{
+  margin: 0 auto;
+  text-align: center;
+}
+
+body{
+  width: 960px;
+  margin: 0 auto;
+}
+
+table{
+  padding-top: 30px;
+  margin: 0 auto;
+}
+td{
+  width: 200px;
+  height: 200px;
+}
+
+.red{
+  background: red;
+}
+
+.blue{
+  background: blue;
+}
+
+.green{
+  background: green;
+}
+
+.yellow{
+  background: yellow
+}
+
+.display_score{
+  text-align: left;
+  font-size: 24px;
+}
